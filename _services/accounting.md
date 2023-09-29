@@ -1,9 +1,10 @@
 ---
-title: "Accounting"
+title: "Lightweight"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
 ---
 
+Whether you're on the go or met a piano in the wild, it's not always possible to have your physical sheets with you
 Financial accounting (or financial accountancy) is the field of accounting concerned with the **summary, analysis and reporting** of financial transactions related to a business.
 
 ![Accounting Services](/images/austin-distel-nGc5RT2HmF0-unsplash.jpg)
