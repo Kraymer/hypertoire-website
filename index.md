@@ -12,6 +12,6 @@ show_call_box: true
 
 Highly legible pdf slides with dead easy one-click page turns to keep you focus on your play.
 
-Don't take my word ... [**see the demo**](example.com) or [**try it**](example.com)!
+Don't take my word ... [**see the demo**](example.com) or [**try it**](example.com)!  [this link](#){:.buttonmodal}
 
 
